@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+.idea
+data
+checkpoint*
+checkpoints
+*.png
+sample
+runs*
+*.pyc
+jupyter
+__pycache__
+*/__pycache__
+venv

@@ -1,0 +1,7 @@
+torch==1.8.0
+transformers==3.0.2
+tokenizers==0.7.0
+pytorch_transformers
+overrides
+sklearn
+tensorboard
